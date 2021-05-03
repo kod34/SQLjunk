@@ -2,6 +2,7 @@
 A simple python program that creates and fills a database with dummy data using Faker.
 
 # Installation
+cd SQLjunk  
 pip3 install -r requirements.txt  
 
 # Usage
